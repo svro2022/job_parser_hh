@@ -8,6 +8,7 @@
 # Технологии:
 - Python
 - PostgreSQL
+- Requests
 
 ---
 # Описание:
